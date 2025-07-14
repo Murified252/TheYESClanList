@@ -1,1 +1,18 @@
-
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "DinkyGD285",
+    "verification": "https://youtu.be/bgcrss2XpMs",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DinkyGD285",
+            "link": "https://youtu.be/bgcrss2XpMs",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
