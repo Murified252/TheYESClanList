@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
+            "user": "None",
+            "link": "None",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
